@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Grinpiss
+- 👋 Hi, I’m Vitali (frontend developer)
 - 👀 I’m interested in learn programming and write code
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
